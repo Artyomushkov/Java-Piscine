@@ -8,13 +8,8 @@ import edu.school21.chat.repositories.MessagesRepository;
 import edu.school21.chat.repositories.MessagesRepositoryJdbcImpl;
 import edu.school21.chat.repositories.NotSavedSubEntityException;
 
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.Optional;
-import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) throws SQLException {

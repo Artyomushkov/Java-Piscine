@@ -1,0 +1,9 @@
+school21/sockets/repositories/CrudRepository.class
+school21/sockets/models/User.class
+school21/sockets/repositories/UsersRepositoryImpl.class
+school21/sockets/config/SocketsApplicationConfig.class
+school21/sockets/repositories/UsersRepository.class
+school21/sockets/app/Main.class
+school21/sockets/services/UsersServiceImpl.class
+school21/sockets/server/Server.class
+school21/sockets/services/UsersService.class
